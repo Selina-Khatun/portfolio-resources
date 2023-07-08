@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+} 
+.header{
+    background: #FFF8F3;
+    background-image: url('../images/header_bg.png'),url('../images/hardy.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+.text-primary{
+    color:#FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.btn-primary{
+    color: ;
+}
